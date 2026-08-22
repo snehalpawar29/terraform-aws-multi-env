@@ -11,7 +11,7 @@ terraform.tfstate.d/
 *.tfvars.json
 
 # Private keys
-terra-automate-key
+multi-env-key
 *.pem
 
 # OS files
